@@ -234,6 +234,7 @@ header {
   margin-left: auto;
   margin-top: 8px;
   margin-right: 8px;
+  cursor: pointer;
 
   width: 30px;
   height: 30px;
@@ -257,6 +258,7 @@ header {
   display: flex;
   border-radius: 4px;
   border: #ffffff;
+  cursor: pointer;
 
   font-family: "Roboto";
   background-color: var(--accent-color);
